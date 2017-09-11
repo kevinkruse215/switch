@@ -1,0 +1,7 @@
+create numberchoice variable 
+
+get number from user
+
+use switch statement and set each number to itself spoken in 
+another language
+
